@@ -1,0 +1,28 @@
+{
+  "name": "loadingcss",
+  "version": "1.0.0",
+  "description": "loading css for html.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppgs8903/loadingcss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppgs8903/loadingcss/issues"
+  },
+  "homepage": "https://github.com/ppgs8903/loadingcss#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0"
+  }
+}
